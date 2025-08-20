@@ -1,0 +1,30 @@
+#以下是实现功能的取数逻辑
+<h1>table第一行是ALV显示报表字段描述</h1>
+<h1>table第二行是对应数据库表名:ekko1与ekpo1关联字段是ebeln1</h1>
+<h1>table第三行是对应表字段名:werks1字段名值为1100时menge1字段值为100，werks1字段名值为1200时menge1字段值为200</h1>
+<table>
+    <tr>
+        <th>采购订单号1</th>
+        <th>采购订单行项1</th>
+        <th>物料1</th>
+        <th>工厂1</th>
+        <th>数量1</th>
+        <th>单位1</th>
+    </tr>
+    <tr>
+        <td>ekko1</td>
+        <td>ekko1</td>
+        <td>ekpo1</td>
+        <td>ekpo1</td>
+        <td>ekpo1</td>
+        <td>ekpo1</td>
+    </tr>
+    <tr>
+        <td>ebeln1</td>
+        <td>ebelp1</td>
+        <td>matnr1</td>
+        <td>werks1</td>
+        <td>menge1</td>
+        <td>meins1</td>
+    </tr>
+</table>
